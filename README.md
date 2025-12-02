@@ -44,13 +44,4 @@ This project demonstrates Object-Oriented Programming concepts such as **Encapsu
 - Using Collections for data storage  
 - Handling runtime errors safely
 
----
-
-## 👨‍💻 Author
-**Sri Vardhan**
-
----
-
-## 📄 License
-This project is free to use for educational purposes.
 
